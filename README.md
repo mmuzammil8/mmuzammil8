@@ -1,4 +1,4 @@
-# Muzamil | AI · Python · MERN · E-commerce
+# Muzamil | Full-Stack Python & MERN · AI Automation · Fintech · Web Scraping · E-Commerce
 
 Hi, I’m **Muzamil**, a Senior Software Engineer with over 9 years of experience building scalable, efficient, and business-focused applications. I specialize in crafting intelligent systems with AI integrations, dynamic full-stack platforms using Python and the MERN stack, and custom e-commerce solutions.
 
